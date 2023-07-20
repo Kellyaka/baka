@@ -1,5 +1,13 @@
 class Baka:
 
+  def guild():
+    guild_id = 
+    r_channel = 
+    er_channel = 
+    refresh_channel = 
+    auto_channel = 
+    return [guild_id, r_channel, er_channel, refresh_channel, auto_channel]
+    
   def subred():
     
     r_list = []
