@@ -1,5 +1,6 @@
 class Baka:
 
+  
   def guild():
     guild_id = 
     r_channel = 
