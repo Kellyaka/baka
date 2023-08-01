@@ -1,0 +1,12 @@
+aiohttp==3.8.5
+discord.py==2.3.1
+discord-ext-menus @ git+https://github.com/Rapptz/discord-ext-menus@8686b5d1bbc1d3c862292eb436ab630d6e9c9b5
+regex==2022.7.9
+DisWebhook==0.1.0
+python-dateutil==2.7.5
+Pybooru==4.2.2
+humanize==4.3.0
+asyncpraw==7.7.0
+asyncio==3.4.3
+pymongo==4.2.0
+hmtai==3.2.31
